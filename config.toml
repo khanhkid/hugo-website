@@ -36,6 +36,12 @@ name = "All posts"
 url = "/posts"
 weight = 2
 
+
+[[menu.main]]
+name = "Old Blog"
+url = "/personal"
+weight = 2
+
 [[menu.main]]
 name = "About"
 url = "/about"
