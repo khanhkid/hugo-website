@@ -18,5 +18,3 @@ Cảm ơn các bạn đã ghé thăm blog cá nhân của mình
 <img class="special-img-class" style="width:20%;" src="/posts/images/logo.png">
 
 ## Khánh Kid ##
-
-test
