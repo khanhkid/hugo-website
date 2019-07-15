@@ -6,8 +6,9 @@ tags: test
 disqus: true
 ---
 
+Bài này là bài đầu tiên của blog mình. Bài này được viết trên markdown and generate by Hugo with `ezhil` theme (có custom vài thứ linh tinh phù hợp với mình).
 
-Bài này là bài blog test của mình mình viết bài này là first blog của mình trên hugo app
+Sắp tới mình sẽ move blog của mình qua đây.
 
 Info blog của mình nằm ở phần old blog. 
 
@@ -17,3 +18,5 @@ Cảm ơn các bạn đã ghé thăm blog cá nhân của mình
 <img class="special-img-class" style="width:20%;" src="/posts/images/logo.png">
 
 ## Khánh Kid ##
+
+test
