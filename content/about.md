@@ -24,7 +24,6 @@ Jan,2019 - Now: **DevOps** at **Macromill South East Asia**
 
 Jan, 2017 - Dec, 2018: **Senior Software Engineer,Junior DevOps** at **W&S Vietnam**
 
-    Maintenance all servers: GCP Server, AMZ SES etc.
     Check vulnerable of website for security. using a WAF server for safe
     Manage Team, Support Team about problem analytics.
     Training new staff
@@ -33,6 +32,17 @@ Jan, 2017 - Dec, 2018: **Senior Software Engineer,Junior DevOps** at **W&S Vietn
 
     Working about schedule, specification, requirement document.
     Setup Server, CI/CD ...
+    Maintaining and develop all service of our Company: Vinaresearch, Nusaresearch, Yimresearch 
+    Maintaining all service of our Company:
+    + Server: Google Cloud, Amazon SES, Linux System, CloudFlare
+    + Database: MySql, Redis
+    + Have experience: Feulphp , Phalcon, Laravel, Zend v.v...
+    + Build GitLab CI/CD (Auto deploy)
+    + Build Local Server Linux Raid 1 
+    + Build a file storage local (SAMBA) for internal company 
+    + Have experience about Plesk, Email server config setting v.v..
+    + Have experience about Docker
+    + Have experience about RESTful API, working with Facebook GraphAPI, Twitter API, Instagram API. 
 
 Mar, 2014 - Dec, 2016: **PHP Developer** at **W&S Vietnam**
 
