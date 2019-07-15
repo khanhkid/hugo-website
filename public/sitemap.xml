@@ -3,14 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://khanhkid.github.io/</loc>
+    <loc>https://khanhkid.github.io/posts/my-first-post/</loc>
     <lastmod>2019-07-15T15:02:04+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://khanhkid.github.io/posts/my-first-post/</loc>
+    <loc>https://khanhkid.github.io/</loc>
     <lastmod>2019-07-15T15:02:04+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

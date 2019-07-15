@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "Bài blog đầu tiên với hugo"
 date: 2019-07-15T15:02:04+07:00
 #draft: true
 tags: test
@@ -10,7 +10,7 @@ Bài này là bài đầu tiên của blog mình. Bài này được viết trê
 
 Sắp tới mình sẽ move blog của mình qua đây.
 
-Info blog của mình nằm ở phần old blog. 
+Info blog của mình nằm ở phần old blog.
 
 Cảm ơn các bạn đã ghé thăm blog cá nhân của mình
 <!-- ![image alt text](/posts/images/logo.png) -->
