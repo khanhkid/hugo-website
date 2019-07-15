@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KhanhKid&#39;s blog</title>
-    <link>http://example.org/</link>
+    <link>https://khanhkid.github.io/</link>
     <description>Recent content on KhanhKid&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jul 2019 15:02:04 +0700</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://khanhkid.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://khanhkid.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 15 Jul 2019 15:02:04 +0700</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://khanhkid.github.io/posts/my-first-post/</guid>
       <description>Bài này là bài test hm này mình viết bài này là first blog của mình trên hugo app
 Bài này là bài test hm này mình viết bài này là first blog của mình trên hugo appBài này là bài test hm này mình viết bài này là first blog của mình trên hugo appBài này là bài test hm này mình viết bài này là first blog của mình trên hugo app</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://khanhkid.github.io/about/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://khanhkid.github.io/about/</guid>
       <description>This is some static page where you can write about yourself.</description>
     </item>
     
