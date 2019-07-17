@@ -6,10 +6,21 @@
     <description>Recent content on KhanhKid&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jul 2019 15:02:04 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2019 16:46:58 +0700</lastBuildDate>
     
 	<atom:link href="https://khanhkid.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tôi học Vim</title>
+      <link>https://khanhkid.github.io/self-learning/toi-hoc-vim/</link>
+      <pubDate>Wed, 17 Jul 2019 16:46:58 +0700</pubDate>
+      
+      <guid>https://khanhkid.github.io/self-learning/toi-hoc-vim/</guid>
+      <description>Ngẫm cuộc đời chắc sẽ gắn bó với Linux cũng nhiều nên thôi nay mình tỉm hiểu học về Vim. Đó giờ thường dùng nhất vẫn là Nano mà cũng có nhiều bất tiện vì Nano không phải là default của Linux cho lắm.
+Ngồi nghĩ thôi chi bằng ngồi học Vim để cập nhật theo thời đại vậy.
+Vim thì mình follow theo vimtour nếu bạn nào hứng thú thì có thể gõ lệnh này trên command line sẽ ra hướng dẫn luôn.</description>
+    </item>
     
     <item>
       <title>Bài blog đầu tiên với hugo</title>
@@ -17,10 +28,10 @@
       <pubDate>Mon, 15 Jul 2019 15:02:04 +0700</pubDate>
       
       <guid>https://khanhkid.github.io/posts/my-first-post/</guid>
-      <description>Bài này là bài đầu tiên của blog mình. Bài này được viết trên markdown and generate by Hugo with ezhil theme (có custom vài thứ linh tinh phù hợp với mình).
+      <description> Bài này là bài đầu tiên của blog mình. Bài này được viết trên markdown and generate by Hugo with ezhil theme (có custom vài thứ linh tinh phù hợp với mình).
 Sắp tới mình sẽ move blog của mình qua đây.
 Info blog của mình nằm ở phần old blog.
-Cảm ơn các bạn đã ghé thăm blog cá nhân của mình Khánh Kid test</description>
+Cảm ơn các bạn đã ghé thăm blog cá nhân của mình Khánh Kid </description>
     </item>
     
     <item>
