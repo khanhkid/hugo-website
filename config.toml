@@ -1,7 +1,7 @@
 baseURL = "https://khanhkid.github.io/"
 languageCode = "en-us"
 title = "KhanhKid's blog"
-theme = "ezhil"
+theme = "ezhil-customize"
 
 # Enable syntax highlighting.
 pygmentsstyle = "vs"
