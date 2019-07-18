@@ -8,7 +8,7 @@ Ngẫm cuộc đời chắc sẽ gắn bó với Linux cũng nhiều nên thôi 
 
 Ngồi nghĩ thôi chi bằng ngồi học `Vim` để cập nhật theo thời đại vậy.
 
-`Vim` thì mình follow theo `vimtour` nếu bạn nào hứng thú thì có thể gõ lệnh này trên command line sẽ ra hướng dẫn luôn. 
+`Vim` thì mình follow theo `vimtutor` nếu bạn nào hứng thú thì có thể gõ lệnh này trên command line sẽ ra hướng dẫn luôn. 
 
 ## BASIC ##
 
