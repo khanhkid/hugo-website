@@ -1,22 +1,22 @@
 #!/bin/bash
 HOMEPATH=$(pwd)
 GITHUGOPATH=$(git remote -v | grep push)
-RED='\033[0;31m'
+GREEN='\033[0;32m'
 NC='\033[0m' # No Color
 
-echo "${RED}>> Generate static html${NC}"
+echo "${GREEN}>> Generate static html${NC}"
 hugo
-echo "${RED}>> Push content of post to GitHub: $GITHUGOPATH ${NC}"
+echo "${GREEN}>> Push content of post to GitHub: $GITHUGOPATH ${NC}"
 git add .
 git commit -am "update new blog"
 git push origin master 
-echo "${RED}>> Pushed content of post"
+echo "${GREEN}>> Pushed content of post"
 
 cd ../../
 GITHUGOPATH=$(git remote -v | grep push)
-echo "${RED}>> Push New Content of post to GitHub: $GITHUGOPATH ${NC}"
+echo "${GREEN}>> Push New Content of post to GitHub: $GITHUGOPATH ${NC}"
 git add .
 git commit -am "upload new blog"
 git push origin master 
-echo "${RED}>> Pushed new blog${NC}"
+echo "${GREEN}>> Pushed new blog${NC}"
 cd $HOMEPATH
