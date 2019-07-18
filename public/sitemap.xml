@@ -26,7 +26,19 @@
   </url>
   
   <url>
-    <loc>https://khanhkid.github.io/tags/vim-editor-linux/</loc>
+    <loc>https://khanhkid.github.io/tags/editor/</loc>
+    <lastmod>2019-07-17T16:46:58+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://khanhkid.github.io/tags/linux/</loc>
+    <lastmod>2019-07-17T16:46:58+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://khanhkid.github.io/tags/vim/</loc>
     <lastmod>2019-07-17T16:46:58+07:00</lastmod>
     <priority>0</priority>
   </url>
