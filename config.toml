@@ -2,6 +2,7 @@ baseURL = "https://khanhkid.github.io/"
 languageCode = "en-us"
 title = "Tôi học làm DevOps"
 theme = "ezhil-customize"
+publishDir = "../../"
 
 # Enable syntax highlighting.
 pygmentsstyle = "vs"
