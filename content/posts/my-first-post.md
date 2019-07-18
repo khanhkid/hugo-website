@@ -1,9 +1,7 @@
 ---
 title: "Bài blog đầu tiên với hugo"
 date: 2019-07-15T15:02:04+07:00
-#draft: true
-tags: test
-disqus: true
+disqus: false
 ---
 
 Bài này là bài đầu tiên của blog mình. Bài này được viết trên markdown and generate by Hugo with `ezhil` theme (có custom vài thứ linh tinh phù hợp với mình).
