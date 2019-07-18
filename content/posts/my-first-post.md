@@ -5,6 +5,7 @@ disqus: false
 ---
 
 Bài này là bài đầu tiên của blog mình. Bài này được viết trên markdown and generate by Hugo with `ezhil` theme (có custom vài thứ linh tinh phù hợp với mình).
+Chỉnh sử nên mình clone ra 1 theme cho mình ở https://github.com/khanhkid/hugo_khanhkid.github.io/tree/master/themes/ezhil-customize
 
 Sắp tới mình sẽ move blog của mình qua đây.
 
