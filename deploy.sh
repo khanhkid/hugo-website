@@ -1,6 +1,6 @@
 #!/bin/bash
 HOMEPATH=$(pwd)
-GITHUGOPATH=$(git remote show origin)
+GITHUGOPATH=$(git remote -v | grep push)
 
 echo ">> Generate static html"
 hugo
@@ -11,7 +11,7 @@ git push origin master
 echo ">> Pushed content of post"
 
 cd ../../
-GITHUGOPATH=$(git remote show origin)
+GITHUGOPATH=$(git remote -v | grep push)
 echo ">> Push New Content of post to GitHub: $GITHUGOPATH"
 git add .
 git commit -am "upload new blog"
