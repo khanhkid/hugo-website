@@ -1,6 +1,6 @@
 baseURL = "https://khanhkid.github.io/"
 languageCode = "en-us"
-title = "Tôi học làm DevOps"
+title = "Nơi tui viết chuyện đời "
 theme = "ezhil-customize"
 publishDir = "../../"
 
