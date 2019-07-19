@@ -10,18 +10,16 @@ disqus: true
 
 Github Page: <https://pages.github.com/>
 
-`Github Page` là một nơi github chia sẽ cho developer một resource để build 1 trang `website tĩnh`. github.io sẽ để trang website của chúng ta dưới tên 1 subdomain `[username].github.io`. Giống như trang blog của mình nó là <https://khanhkid.github.io>. 
+`Github Page` là một nơi github chia sẽ cho developer một resource để build 1 trang `website tĩnh`. github.io sẽ để trang website của chúng ta dưới tên 1 subdomain `[username].github.io`. Giống như trang blog của mình là <https://khanhkid.github.io>.
 
-`Hugo`: <https://www.staticgen.com/hugo>
+`Hugo`: <https://www.staticgen.com/hugo> Hugo is a static site generator written in Go
 
-Hugo is a static site generator written in Go
-
-`Git` và một chút kiến thức về  `Markdown`
+`Git` và một chút kiến thức về  `Markdown` style có thể xem ở [đây](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # Installing 
 
 1. Tạo 1 trang Github Page theo hướng dẫn <https://pages.github.com/>
-2. Cài đặt Hugo (<https://gohugo.io/getting-started/installing>)
+2. Cài đặt Hugo ([chi tiết](https://gohugo.io/getting-started/installing))
 
 Cài đặt trên Linux
 
@@ -47,7 +45,7 @@ Giới thiệu về  structure của HUGO
 
 ## Cài Đặt Themes
 
-Danh sách các theme được đóng góp trên hugo <https://themes.gohugo.io/>. Chúng ta chọn 1 theme phù hợp và cài đặt vào trong Hugo. Trong bài viết tôi chọn theme `Ezhil` và đây là github của theme <https://github.com/vividvilla/ezhil>
+Danh sách các theme được đóng góp trên hugo <https://themes.gohugo.io/>. Bạn chọn 1 theme phù hợp và cài đặt vào trong Hugo. Trong bài viết tôi chọn theme `Ezhil` ở [đây](https://github.com/vividvilla/ezhil)
 
 Trong 1 theme thường sẽ có 2 phần chính
 
