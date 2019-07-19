@@ -1,5 +1,5 @@
 ---
-title: "Tạo Blog Cá Nhân bằng Github Page vs Staticgen"
+title: "Tạo blog cá nhân bằng Github Page vs Staticgen"
 date: 2019-07-18T23:17:30+07:00
 disqus: true
 ---
