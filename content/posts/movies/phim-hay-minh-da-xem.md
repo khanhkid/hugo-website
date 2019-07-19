@@ -2,6 +2,7 @@
 title: "Tổng hợp phim hay"
 date: 2019-07-19T14:02:36+07:00
 draft: false
+tags: [movies]
 ---
 
 + Động lực làm việc:
