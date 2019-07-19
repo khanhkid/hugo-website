@@ -257,6 +257,9 @@ ul {
 	padding-left: 5px;
 	margin-top: 10px;
 }
+.home-tag {
+    color:purple,
+}
 
 .list .posts .post .meta {
 	margin-bottom: 0;

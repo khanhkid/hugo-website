@@ -33,8 +33,8 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
+name = "Self learning"
+url = "/self-learning"
 weight = 2
 
 [[menu.main]]
@@ -46,6 +46,11 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
+
+[[menu.main]]
+name = "Movie"
+url = "/movies"
+weight = 5
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).

@@ -6,13 +6,16 @@ disqus: true
 
 # Requirement
 
-Github Page: https://pages.github.com/
+<img class="special-img-class"¬ src="/self-learning/img/hugo-github.png">
 
-`Github Page` là một nơi github chia sẽ cho developer một resource để build 1 trang `website tĩnh`. Khi bạn tạo 1 trang website tĩnh của github.io là `[username].github.io`. Giống như trang blog của mình nó là https://khanhkid.github.io. 
+Github Page: <https://pages.github.com/>
 
-`Hugo`: https://www.staticgen.com/hugo
+`Github Page` là một nơi github chia sẽ cho developer một resource để build 1 trang `website tĩnh`. github.io sẽ để trang website của chúng ta dưới tên 1 subdomain `[username].github.io`. Giống như trang blog của mình nó là <https://khanhkid.github.io>. 
+
+`Hugo`: <https://www.staticgen.com/hugo>
 
 Hugo is a static site generator written in Go
+
 
 `Git` và một chút kiến thức về  `Markdown`
 

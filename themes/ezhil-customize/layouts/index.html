@@ -16,17 +16,18 @@
 				{{- else -}}
 				{{- if lt ($.Scratch.Get "counter") (.Site.Params.RecentPostsCount | default 10) -}}
 				<div class="post">
-					<div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}</div>
-					<a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> &mdash;
-					<span class="description">
-						{{ if isset .Params "description" }}
-							{{ .Description }}
-						{{ else if gt (len .RawContent) 120 }}
-							{{ slicestr .RawContent 0 120 }}...
-						{{ else }}
-							{{ .RawContent }}
+					<div class="meta">{{ dateFormat "Jan 2, 2006" .Date }} : 
+						{{ $taxonomy := "tags" }}
+						{{ with .Param $taxonomy }}
+							{{ range $index, $tag := . }}
+								{{ with $.Site.GetPage (printf "/%s/%s" $taxonomy $tag) -}}
+									<a class="home-tag" href="{{ .Permalink }}">{{ $tag | urlize }}</a>
+								{{- end -}}
+							{{- end -}}
 						{{ end }}
-					</span>
+					</div>
+					
+					<a class="title" href="{{ .RelPermalink }}">{{.Title}}</a>
 				</div>
 				{{- $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) -}}
 				{{- end -}}
