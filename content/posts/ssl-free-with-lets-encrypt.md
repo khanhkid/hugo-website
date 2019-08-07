@@ -47,13 +47,17 @@ Hoặc có thể cài bằng cách
 
 Để lấy chứng chỉ LE chúng ta dùng câu lệnh bên dưới
 
-    ./certbot-auto certonly --manual --preferred-challenges=dns -d remojob.net -d *.remojob.net
+    ./certbot-auto certonly --manual \
+        --preferred-challenges=dns \
+        -d example.com \
+        -d *.example.com \ 
 
     certonly                Obtain or renew a certificate, but do not install it
     -d                      Add domain 
     --preferred-challenges  Dùng link address (https.dns) or DNS TXT records (dns)
     --manual                Enable Tour guide 
 
+Nếu chứng thực 1 single domain thì bạn có thể bỏ `-d *.example.com`
 Cerbot sẽ yêu cầu bạn làm 1 trong 2 việc chứng thực domain chính là của bạn
 
 - **Dùng link address**
