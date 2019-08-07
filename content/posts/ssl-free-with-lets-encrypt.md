@@ -2,6 +2,7 @@
 title: "Hướng dẫn tạo ssl wildcard free với Lets Encrypt"
 date: 2019-08-07T13:41:07+07:00
 draft: false
+tags: [ ssl, letsencrypt, linux]
 ---
 
 SSL có 2 dạng chính mà chúng ta biết đến là
