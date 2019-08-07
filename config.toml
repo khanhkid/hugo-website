@@ -10,7 +10,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 # Your Google analytics code.
-#googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-59156529-2"
 # Your Disqus sortname.
 disqusShortname = "khanhkid"
 
@@ -33,7 +33,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Về Tui"
+name = "Về tui"
 url = "/about"
 weight = 2
 
