@@ -19,7 +19,7 @@ SSL có 2 dạng chính mà chúng ta biết đến là
 
 Let's Encrypt (LE) ngoài việc cung cấp 1 single SSL thì LE còn cung cấp cho người dùng có thể tạo wildcard SSL. Sau đây mình note lại những bước căn bản để lấy 1 wildcard SSL
 
-## Yêu cầu
+## Bước 1: Yêu cầu
 
 Let's Encrypt cần Python 2.7 or 3 và git để cài đặt
 
@@ -29,7 +29,7 @@ Let's Encrypt cần Python 2.7 or 3 và git để cài đặt
     apt-get install git-core
     git --version
 
-## Cài Đặt Cert-Bot
+## Bước 2: Cài Đặt Cert-Bot
 
 Cert-Bot là 1 công cụ để lấy chứng chỉ LE
 
@@ -43,7 +43,7 @@ Hoặc có thể cài bằng cách
 
     sudo apt-get install letsencrypt
 
-## Tạo SSL
+## Bước 3: Tạo SSL
 
 Để lấy chứng chỉ LE chúng ta dùng câu lệnh bên dưới
 
@@ -54,7 +54,7 @@ Hoặc có thể cài bằng cách
     --preferred-challenges  Dùng link address (https.dns) or DNS TXT records (dns)
     --manual                Enable Tour guide 
 
-Cerbot sẽ yêu cầu bạn làm 1 trong 2 việc chứng thực domain
+Cerbot sẽ yêu cầu bạn làm 1 trong 2 việc chứng thực domain chính là của bạn
 
 - **Dùng link address**
 
@@ -104,7 +104,7 @@ APACHE
 
 Thế là xong việc tạo 1 wildcard SSL cho domain của bạn
 
-## Auto Renew mỗi 3 tháng
+## Bước 4: Auto Renew mỗi 3 tháng
 
 LE chỉ cung cấp cho bạn 3 tháng vì vậy tạo 1 crontab để mỗi tháng tự động renew lại SSL là mọi chuyện ổn hết
 
