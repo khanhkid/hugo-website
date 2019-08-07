@@ -28,29 +28,24 @@ disqusShortname = "khanhkid"
 
 # Main menu which appears below site header.
 [[menu.main]]
-name = "Home"
+name = "Trang chủ"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Self learning"
-url = "/posts/self-learning"
+name = "Về Tui"
+url = "/about"
 weight = 2
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Chủ đề"
+url = "/tags"
 weight = 3
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
+name = "Phim"
+url = "/tags/movies"
 weight = 4
-
-[[menu.main]]
-name = "Movie"
-url = "/posts/movies"
-weight = 5
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
