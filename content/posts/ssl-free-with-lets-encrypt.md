@@ -62,7 +62,7 @@ Cerbot sẽ yêu cầu bạn làm 1 trong 2 việc chứng thực domain chính 
 
 - **Dùng link address**
 
-Certbot sẽ yêu cầu bạn tạo 1 file `https://[domain]/.well-known/acme-challenge/zDJK5Z4X993bHWLO6sWscuDIXMeGXY1quQmxyXkg8cY` và chứa 1 nội dung để chức thực
+Certbot sẽ yêu cầu bạn tạo 1 file `https://example.com/.well-known/acme-challenge/zDJK5Z4X993bHWLO6sWscuDIXMeGXY1quQmxyXkg8cY` và chứa 1 nội dung để chức thực
 
 - **Dùng DNS TXT records**
 
