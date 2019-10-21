@@ -41,7 +41,7 @@ Step 2: Check nginx installed & running
 
 You can see this 
 
-<img class="special-img-class" src="/self-learning/img/nginx_image_status.png">
+![image alt text](/posts/images/20191021_nginx/nginx_image_status.png)
 
 Congratuation!!!
 
