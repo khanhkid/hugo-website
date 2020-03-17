@@ -1,7 +1,7 @@
 ---
 title: "Code ngầu hơn vs Php ^7.1 "
 date: 2019-08-09T16:56:29+07:00
-draft: false
+draft: true
 ---
 
 Qua nhiều sự thay đổi của PHP version thì PHP đã là đang phát triển phù hợp với xu thế mới của các ngôn ngữ lập trình. Dù đã 25 năm tuổi nhưng PHP vẫn còn 1 chỗ đứng trong kha khá ngôn ngữ về lập trình web. Sau quá trình lập việc vơi PHP thì mình cũng có vài tips nho nhỏ để viết PHP code trở nên cool ngầu hơn. :3

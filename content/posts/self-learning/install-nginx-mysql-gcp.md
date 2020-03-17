@@ -1,7 +1,7 @@
 ---
 title: "Install Nginx, Mysql"
 date: 2019-10-21T9:46:58+07:00
-draft: false
+draft: true
 tags: [ service, nginx, mysql]
 ---
 
@@ -30,3 +30,6 @@ Congratuation!!!
 Step 3: Check service is available
 
         http://server_domain_or_IP
+
+## INSTALL MYSQL 
+
