@@ -2,7 +2,7 @@ baseURL = "https://khanhkid.github.io/"
 languageCode = "en-us"
 title = "Nơi tui viết chuyện đời "
 theme = "ezhil-customize"
-publishDir = "../../"
+publishDir = "public"
 
 # Enable syntax highlighting.
 pygmentsstyle = "vs"
